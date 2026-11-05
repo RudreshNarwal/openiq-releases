@@ -1,0 +1,11 @@
+{
+  "version": "1.3.4",
+  "notes": "Add signed in-app updates from public GitHub releases. Check from the Home sidebar; install and restart after saving your call.",
+  "pub_date": "2026-11-05T14:26:12.912Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://api.github.com/repos/RudreshNarwal/openiq-releases/releases/assets/713710812",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbldGTWhyaE82N3ByR2FpYXJ3RjhDeU1WNFZpdzNNTnYzbWNwZHlacHZ0U1BtdFhvL1UrZzl3NU10N0grS0V5TVNOQmFrN3Fhb3dBZHI2UEpRM3lENERHM1ZkamhYOVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODg4NzcyCWZpbGU6b3BlbklRIE5hdGl2ZSBQcmV2aWV3LmFwcC50YXIuZ3oJdmVyc2lvbjoxLjMuNApxRURqN2d1QXN1empEeGdIbUlvRWw5WDFsZXNnVFgycDFKY2g1VnpGSURaQ0pWazFZVjRSQTFSMjhMQXhNejZ6NXNLZHErME9PeXV6eXFaWnEvQjBCdz09Cg=="
+    }
+  }
+}
